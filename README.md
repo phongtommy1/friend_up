@@ -1,10 +1,10 @@
-# friend_up
+# AmiTA
 
 A new Flutter application.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is a starting point for a Flutter application. This app allows user to share their stories and other user can vote on what they thought was right in that given scenario. 
 
 A few resources to get you started if this is your first Flutter project:
 
